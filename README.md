@@ -282,7 +282,7 @@ Factor-Model-Alpha-Generation/
 |:---:|:---|:---|
 | 1 | [Statistical Arbitrage & Pairs Trading](https://github.com/nirajneupane17/Statistical-Arbitrage-Pairs-Trading) | Cointegration · ADF · Z-score |
 | 2 | [Momentum & Mean Reversion](https://github.com/nirajneupane17/Momentum-Mean-Reversion-Strategies) | CS/TS Momentum · Regime detection |
-| **3** | **Factor Model Alpha Generation** | **← You are here** |
+| **3** | **Factor Model Alpha Generation** | ** You are here** |
 | 4 | Order Book Microstructure | Kyle lambda · market impact · VWAP |
 | 5 | Backtesting Engine from Scratch | Event-driven · walk-forward · overfitting |
 | … | … | … |
