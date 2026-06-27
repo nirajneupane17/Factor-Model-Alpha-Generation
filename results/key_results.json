@@ -1,0 +1,1 @@
+{"mkt_sharpe": 0.43, "smb_sharpe": 0.288, "hml_sharpe": 0.027, "rmw_sharpe": 0.052, "bab_sharpe": 0.55, "umd_sharpe": 0.332, "ff5_sharpe": 0.547, "ff5_ann_ret": 3.01, "ff5_max_dd": -32.58, "multifactor_sharpe": 0.803, "alpha_ann": -14.578, "r2": 0.077, "n_days": 9261, "n_stocks": 50, "period": "1990-2025"}
