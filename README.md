@@ -20,6 +20,10 @@ construction, and 35-year backtesting across five market crises.*
 
 ---
 
+![Factor Model Alpha Generation — Summary Dashboard](results/dashboard_final_pro.png)
+
+---
+
 ## What Is This Project?
 
 Factor models are the language of institutional investment management.
