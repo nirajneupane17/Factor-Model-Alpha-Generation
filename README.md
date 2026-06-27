@@ -2,7 +2,7 @@
 
 # Factor Model Alpha Generation
 
-### Quant Trading Projects — Series 3 of 20
+### Quant Trading Projects: Series 3 of 20
 
 *A complete institutional-grade factor modeling framework:
 Fama-French 3 and 5 factors, Quality (QMJ), Low-Volatility (BAB),
